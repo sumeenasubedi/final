@@ -111,6 +111,6 @@ with sample_tab:
 st.caption(
     "Exploratory data analysis and model training were performed in "
     "[this Kaggle notebook][nb].\n\n"
-    "[nb]: https://www.kaggle.com/code/timothyabwao/detecting-breast-cancer"
-    "-with-computer-vision"
+    "[nb]: https://www.kaggle.com/code/suminaa/minor-project"
+    
 )
