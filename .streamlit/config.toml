@@ -1,0 +1,9 @@
+[theme]
+primaryColor="purple"
+backgroundColor="#eee"
+secondaryBackgroundColor="#e2cee2"
+textColor="#444"
+font="serif"
+
+[server]
+maxUploadSize=10  # Allow files upto 10MB in size
